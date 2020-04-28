@@ -6,8 +6,8 @@
 
 
 ## Screenshots
-![Calculator first Screen](./screenshots/screenshot_1.png)
-![Calculator second Screen](./screenshots/screenshot_2.png)
+![Calculator first Screen](./screenshots/Screenshot_1.png)
+![Calculator second Screen](./screenshots/Screenshot_2.png)
 
 
 # Run
